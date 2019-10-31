@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>Hello, dreamer!</title>
-      <link href="./2019/10/31/hello-world/"/>
-      <url>./2019/10/31/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1 id="ME"><a href="#ME" class="headerlink" title="ME"></a>ME</h1><h2 id="HHH"><a href="#HHH" class="headerlink" title="HHH"></a>HHH</h2><ul><li>sdas</li><li>sdas<ul><li>dsf<ul><li>dfd<br>I’m Sun Chengbo.</li></ul></li></ul></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> ME </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> intro </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>summary about sentiment analysis</title>
       <link href="./2019/10/31/%E8%8B%B1%E6%96%87%E7%BB%BC%E8%BF%B0/"/>
       <url>./2019/10/31/%E8%8B%B1%E6%96%87%E7%BB%BC%E8%BF%B0/</url>
@@ -46,6 +21,31 @@
         <tags>
             
             <tag> sentiment analysis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello, dreamer!</title>
+      <link href="./2019/10/31/hello-world/"/>
+      <url>./2019/10/31/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ME"><a href="#ME" class="headerlink" title="ME"></a>ME</h1><h2 id="HHH"><a href="#HHH" class="headerlink" title="HHH"></a>HHH</h2><ul><li>sdas</li><li>sdas<ul><li>dsf<ul><li>dfd<br>I’m Sun Chengbo.</li></ul></li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> ME </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> intro </tag>
             
         </tags>
       
